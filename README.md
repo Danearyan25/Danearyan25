@@ -13,6 +13,7 @@
 I’m an SAP ABAP Developer focused on maintainable, upgrade-safe enterprise solutions. I enjoy turning business requirements into performant reports, integrations, enhancements, and Fiori-ready services.
 
 - 🌱 Currently learning: ABAP Cloud, RAP, CDS Views, and SAP BTP
+- 📍 Based in: Pune, India
 - 💬 Technical interests: ABAP OO, ALV, BAdIs, CDS, RAP, OData, BAPI/IDoc, and performance tuning
 - 🧭 Profile: [@Danearyan25](https://github.com/Danearyan25)
 
