@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Professional developer profile banner</title>
+  <desc id="desc">A dark navy SAP ABAP developer banner with subtle blue and teal geometric accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#16243B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="26"/></filter>
+  </defs>
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <circle cx="1090" cy="50" r="170" fill="#0EA5E9" opacity=".12" filter="url(#blur)"/>
+  <circle cx="1180" cy="285" r="155" fill="#14B8A6" opacity=".11" filter="url(#blur)"/>
+  <path d="M922 0 L1280 0 L1280 360 L1113 360 Z" fill="#FFFFFF" opacity=".025"/>
+  <path d="M845 0 L1187 360" stroke="#7DD3FC" stroke-width="1" opacity=".18"/>
+  <path d="M954 0 L1280 326" stroke="#5EEAD4" stroke-width="1" opacity=".13"/>
+  <rect x="91" y="98" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="90" y="169" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="700" letter-spacing="-1">ARYAN DANE</text>
+  <text x="92" y="217" fill="#B8C5D9" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".5">SAP ABAP DEVELOPER  •  S/4HANA  •  ENTERPRISE SOLUTIONS</text>
+  <text x="92" y="274" fill="#7DD3FC" font-family="monospace" font-size="17">&lt;/&gt; build reliable business software</text>
+</svg>
